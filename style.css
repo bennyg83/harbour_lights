@@ -19,6 +19,7 @@ body::after {
 .column_left {
     float: left;
     width: 50%;
+    position: fixed;
     }
   .column_right {
         float: right;
